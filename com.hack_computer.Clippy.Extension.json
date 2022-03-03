@@ -17,7 +17,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endlessm/clippy.git",
-                    "branch": "eos3",
+                    "branch": "eos5",
                     "commit": "c3e78fa02d4193d617860f72fd603a05628c3602"
                 }
             ]
