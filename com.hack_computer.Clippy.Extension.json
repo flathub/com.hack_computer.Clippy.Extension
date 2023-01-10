@@ -2,7 +2,7 @@
     "app-id": "com.hack_computer.Clippy.Extension",
     "runtime": "com.hack_computer.Clubhouse",
     "runtime-version": "stable",
-    "sdk": "org.gnome.Sdk//43",
+    "sdk": "org.gnome.Sdk//42",
     "appstream-compose": false,
     "separate-locales": false,
     "build-extension": true,
@@ -17,7 +17,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/endlessm/clippy.git",
-                    "commit": "fdf650145ae7a672cfbc4ed17ac725cc352e24be"
+                    "commit": "c955872bf6f9db75e6c95595c0c6a0f583348002"
                 }
             ]
         },
